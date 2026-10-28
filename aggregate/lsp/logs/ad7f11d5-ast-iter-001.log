@@ -1,0 +1,7 @@
+[2026-10-28T11:18:44Z] === AST ITERATION 1 START | repo=zarr-developers/perfcapture sha=ad7f11d5 ===
+[2026-10-28T11:18:44Z] [iter=1] PHASE START: ast repo=zarr-developers/perfcapture sha=ad7f11d5
+[2026-10-28T11:18:44Z] [iter=1] Building AST aggregate chunks
+[2026-10-28T11:18:46Z] [iter=1] AST chunks built count=1 triples=25223
+[2026-10-28T11:18:46Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/ad7f11d53686be003e5b8c76b93d29303e66635a/.complete
+[2026-10-28T11:18:46Z] [iter=1] PHASE END: ast elapsed_s=3 elapsed_min=0.0
+[2026-10-28T11:18:46Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

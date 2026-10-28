@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/zarr-developers/perfcapture/commit/ad7f11d53686be003e5b8c76b93d29303e66635a",
       "git:hexsha": "ad7f11d53686be003e5b8c76b93d29303e66635a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
